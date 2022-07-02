@@ -71,6 +71,9 @@ def main():
         if query in v:
             print(globals()[k]())
 
+def new_none():
+    query 
+
 
 if __name__ == '__main__':
     main()
