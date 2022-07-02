@@ -72,8 +72,12 @@ def main():
             print(globals()[k]())
 
 def new_none():
-    query 
+    query = 0 
 
+
+def new_noname_2():
+	query = 0 
+	
 
 if __name__ == '__main__':
     main()
